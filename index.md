@@ -1,8 +1,11 @@
-# Changelog
-All notable changes to this project will be documented in this file.
+# W2 Platform Changelog
+All notable platform changes will be documented in this page.
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+[@W2 Home](https://www.w2globaldata.com)
+[@W2 Dev Hub](https://www.w2globaldata.com/developers/)
+
+---
+
 
 ## [Unreleased]
 - Version navigation.
