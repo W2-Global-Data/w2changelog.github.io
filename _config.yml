@@ -3,6 +3,7 @@ name: changelog.w2globaldata.com
 title: null
 plugins:
   - jekyll-relative-links
+  - jekyll-feed
 relative_links:
   enabled: true
   collections: true
