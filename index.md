@@ -1,8 +1,8 @@
 # W2 Platform Changelog
 All notable platform changes will be documented in this page.
 
-[@W2 Home](https://www.w2globaldata.com)
-[@W2 Dev Hub](https://www.w2globaldata.com/developers/)
+[W2 Home](https://www.w2globaldata.com)  
+[W2 Dev Hub](https://www.w2globaldata.com/developers/)  
 
 ---
 
