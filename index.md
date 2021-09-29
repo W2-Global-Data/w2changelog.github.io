@@ -19,7 +19,7 @@ All service affecting changes to the W2 platform or products will be documented 
   
 ## 2021-09-23
 ### Changed
-- 23487 - Updated the Dev Docs page fo our SSN service with correct sandbox data. [https://docs.w2globaldata.com/#sandbox-33].
+- 23487 - Updated the Dev Docs page fo our SSN service with correct sandbox data. (https://docs.w2globaldata.com/#sandbox-33).
   
 ## 2021-09-10
 ### Added
