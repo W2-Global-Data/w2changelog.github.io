@@ -1,4 +1,5 @@
 #theme: jekyll-theme-minimal
+title: changelog.w2globaldata.com
 plugins:
   - jekyll-relative-links
 relative_links:
