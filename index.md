@@ -1,9 +1,15 @@
 # W2 Platform Changelog
+
 All service affecting changes to the W2 platform or products will be documented in this page.
 
+
+
 [W2 Home](https://www.w2globaldata.com)  
+
 [W2 Portal](https://portal.w2globaldata.com)  
+
 [W2 Dev Hub](https://www.w2globaldata.com/developers/)  
+
 ## Open Bugs
 23494 - Portal Cases - Ongoing monitoring button improvements   
 23435 - KYB Report Generation buttons in Portal not working   
