@@ -13,6 +13,7 @@ All service affecting changes to the W2 platform or products will be documented 
 ## Open Bugs
 23494 - Portal Cases - Ongoing monitoring button improvements   
 23435 - KYB Report Generation buttons in Portal not working   
+23416 - 015UK - House Number Validation   
 23391 - France and Spain KYC Can't be performed through Quicksearch   
 23034 - KYC_Profiledata gives no data for PEPs and Sanctions when inputting Sandbox Data   
 22706 - Some addresses not showing when searching Postcode in Address Lookup 024 service    
