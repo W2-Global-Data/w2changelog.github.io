@@ -21,7 +21,6 @@ All service affecting changes to the W2 platform or products will be documented 
    
 ## Unreleased Changes
 23364 - Case's risk group to be shown for case search results    
-23225 - Implement prototype "Signup" Button and form for the Website   
 23201 - IncludeExPEPsFromDate filter added to API   
 23188 - Classify/Crop Endpoint   
 23133 - Web liveness test   
@@ -35,6 +34,10 @@ All service affecting changes to the W2 platform or products will be documented 
 ### Fixed Bugs :zap:
 23363 - IDV Billing - Check additional image upload uses correct billing tags   
 23319 - TU returns 'None' result but Equifax and Experian return 'Not Performed'   
+   
+## 2021-10-12
+### Released Changes
+23225 - Implement prototype "Signup" Button and form for the Website   
    
 ## 2021-09-27
 ### Fixed Bugs :zap:
