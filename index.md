@@ -24,7 +24,6 @@ All service affecting changes to the W2 platform or products will be documented 
 23201 - IncludeExPEPsFromDate filter added to API   
 23188 - Classify/Crop Endpoint   
 23133 - Web liveness test   
-23082 -   Update Backend Service to allow for Germany and Netherlands services   
 22734 - Select date range for audit history   
 22733 - Add Request Audit history button to case view   
 22730 - Change risk group on case view   
@@ -38,6 +37,10 @@ All service affecting changes to the W2 platform or products will be documented 
 ## 2021-10-12
 ### Released Changes
 23225 - Implement prototype "Signup" Button and form for the Website   
+   
+## 2021-10-13
+### Released Changes
+23082 -   Update Backend Service to allow for Germany and Netherlands services   
    
 ## 2021-09-27
 ### Fixed Bugs :zap:
