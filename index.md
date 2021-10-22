@@ -23,7 +23,6 @@ All service affecting changes to the W2 platform or products will be documented 
 23364 - Case's risk group to be shown for case search results    
 23201 - IncludeExPEPsFromDate filter added to API   
 23188 - Classify/Crop Endpoint   
-23133 - Web liveness test   
 22734 - Select date range for audit history   
 22733 - Add Request Audit history button to case view   
 22730 - Change risk group on case view   
