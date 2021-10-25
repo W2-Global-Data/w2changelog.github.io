@@ -24,7 +24,6 @@ All service affecting changes to the W2 platform or products will be documented 
 23201 - IncludeExPEPsFromDate filter added to API   
 23188 - Classify/Crop Endpoint   
 22734 - Select date range for audit history   
-22733 - Add Request Audit history button to case view   
 22730 - Change risk group on case view   
 21522 - Ex Pep Filter missing on 006 (PepAndSanctions)   
    
@@ -48,4 +47,8 @@ All service affecting changes to the W2 platform or products will be documented 
 ## 2021-09-23
 ### Released Changes
 22736 - Generate CSV report of Case audit history   
+   
+## 2021-10-25
+### Released Changes
+22733 - Add Request Audit history button to case view   
    
