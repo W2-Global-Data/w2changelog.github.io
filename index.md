@@ -24,7 +24,6 @@ All service affecting changes to the W2 platform or products will be documented 
 23188 - Classify/Crop Endpoint   
 22734 - Select date range for audit history   
 22730 - Change risk group on case view   
-21522 - Ex Pep Filter missing on 006 (PepAndSanctions)   
    
 ## 2021-10-01
 ### Fixed Bugs :zap:
@@ -50,4 +49,8 @@ All service affecting changes to the W2 platform or products will be documented 
 ## 2021-10-25
 ### Released Changes
 22733 - Add Request Audit history button to case view   
+   
+## 2021-11-03
+### Released Changes
+21522 - Ex Pep Filter missing on 006 (PepAndSanctions)   
    
