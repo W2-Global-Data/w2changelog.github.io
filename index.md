@@ -12,18 +12,22 @@ All service affecting changes to the W2 platform or products will be documented 
 
 ## Open Bugs
 23494 - Portal Cases - Ongoing monitoring button improvements   
-23435 - KYB Report Generation buttons in Portal not working   
 23416 - 015UK - House Number Validation   
 23391 - France and Spain KYC Can't be performed through Quicksearch   
 23034 - KYC_Profiledata gives no data for PEPs and Sanctions when inputting Sandbox Data   
 22706 - Some addresses not showing when searching Postcode in Address Lookup 024 service    
 22305 - World Compliance links not sent in response object   
    
+## 2021-11-04
+### Fixed Bugs :zap:
+23435 - KYB Report Generation buttons in Portal not working   
+   
 ## Unreleased Changes
 23364 - Case's risk group to be shown for case search results    
 23188 - Classify/Crop Endpoint   
 22734 - Select date range for audit history   
 22730 - Change risk group on case view   
+21522 - Ex Pep Filter missing on 006 (PepAndSanctions)   
    
 ## 2021-10-01
 ### Fixed Bugs :zap:
@@ -49,8 +53,4 @@ All service affecting changes to the W2 platform or products will be documented 
 ## 2021-10-25
 ### Released Changes
 22733 - Add Request Audit history button to case view   
-   
-## 2021-11-03
-### Released Changes
-21522 - Ex Pep Filter missing on 006 (PepAndSanctions)   
    
