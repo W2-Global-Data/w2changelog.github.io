@@ -1,22 +1,19 @@
 # W2 Platform Changelog
-
 All service affecting changes to the W2 platform or products will be documented in this page.
 
-
-
-[W2 Home](https://www.w2globaldata.com)  
-
-[W2 Portal](https://portal.w2globaldata.com)  
-
-[W2 Dev Hub](https://www.w2globaldata.com/developers/)  
-
-## 2021-11-04
-### Fixed Bugs :zap:
-23435 - KYB Report Generation buttons in Portal not working.   
-   
+[W2 Home](https://www.w2globaldata.com)
+[W2 Portal](https://portal.w2globaldata.com)
+[W2 Dev Hub](https://www.w2globaldata.com/developers/)
 ## Open Bugs
 23416 - Validation for the HouseNumber field incorrectly passing strings to the supplier.   
 23391 - France and Spain KYC experiencing errors in Quicksearch   
+   
+## Unreleased Changes
+21522 - Add Ex-PEP Filter to the 006 (PepAndSanctions) Service   
+   
+## 2021-11-04
+### Fixed Bugs :zap:
+23435 - KYB Report Generation buttons in Portal not working.   
    
 ## 2021-10-12
 ### Released Changes
@@ -37,7 +34,4 @@ All service affecting changes to the W2 platform or products will be documented 
 ## 2021-10-25
 ### Released Changes
 22733 - Add Request Audit history button to the case view.   
-   
-## Unreleased Changes
-21522 - Add Ex-PEP Filter to the 006 (PepAndSanctions) Service   
    
