@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-.main-content {
+.markdown-body {
   h2 {
     padding-top: 2em;
   }
