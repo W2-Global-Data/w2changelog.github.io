@@ -1,6 +1,7 @@
 #theme: jekyll-theme-minimal
 name: changelog.w2globaldata.com
 title: null
+favicon: assets/favicon.ico
 plugins:
   - jekyll-relative-links
   - jekyll-feed
