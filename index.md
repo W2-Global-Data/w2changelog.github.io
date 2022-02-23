@@ -10,12 +10,6 @@ All service affecting changes to the W2 platform or products will be documented 
 
 [W2 Dev Hub](https://www.w2globaldata.com/developers/)  
 
-## Open Bugs
-23416 - Validation for the HouseNumber field incorrectly passing strings to the supplier.   
-   
-## Unreleased Changes
-21522 - Add Ex-PEP Filter to the 006 (PepAndSanctions) Service   
-   
 ## 2021-11-04
 ### Fixed Bugs :zap:
 23435 - KYB Report Generation buttons in Portal not working.   
@@ -40,4 +34,8 @@ All service affecting changes to the W2 platform or products will be documented 
 ## 2021-10-25
 ### Released Changes
 22733 - Add Request Audit history button to the case view.   
+   
+## 2021-11-25
+### Released Changes
+21522 - Add Ex-PEP Filter to the 006 (PepAndSanctions) Service   
    
