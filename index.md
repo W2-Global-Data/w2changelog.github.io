@@ -8,7 +8,7 @@ All service affecting changes to the W2 platform or products will be documented 
 
 [W2 Portal](https://portal.w2globaldata.com)  
 
-[W2 Dev Hub](https://www.w2globaldata.com/developers/)  
+[W2 Developer Documentation](https://docs.w2globaldata.com)  
 
 ## 2021-11-04
 ### Fixed Bugs :zap:
