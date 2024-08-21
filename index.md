@@ -1,3 +1,8 @@
+---
+layout: default
+title: W2 Platform Changelog
+---
+
 # W2 Platform Changelog
 
 All service affecting changes to the W2 platform or products will be documented in this page.
