@@ -3,7 +3,7 @@ layout: default
 title: W2 Platform Changelog
 ---
 
-![W2 Logo](/assets/images/image.png)
+<img src="{{ site.baseurl }}/assets/images/image.png" class="header-img"/>
 
 # W2 Platform Changelog
 
